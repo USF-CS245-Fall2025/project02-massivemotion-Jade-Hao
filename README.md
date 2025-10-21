@@ -4,7 +4,7 @@ Massive Motion is a Java simulation project that helps the user visualize a cele
 These parameters are used to control simulation behavior, such as, window size, star and comet generation probability and anaimation timiing. These movement of celestial bodies are done in real time
 
 -------------------------------------
-#Project Overview
+## Project Overview
 - Reads from a configuration data from a .txt file using java.util.Properties
 - Implements the following list data structures:
        1. ArrayList = Array based implementation (with a fixed size of 10)
@@ -16,7 +16,7 @@ These parameters are used to control simulation behavior, such as, window size, 
   -Generates and removes comets during the runtime of the program
 
    -------------------------------------
-#Project Structure
+## Project Structure
 MassiveMotion.java - Main class
 CelestialObject.java - Represents a single celestial object
 List.java- Interface for all list implementations
@@ -28,8 +28,8 @@ MassiveMotion.txt - Property configuration file
 README.md - Project documentation
 
 -----------
-How to run the code: 
+## How to run the code: 
 In terminal: java MassiveMotion MassiveMotion.txt
 
 ---------
-Link to video implementation: https://drive.google.com/drive/folders/1jrZRfDYi_CEDZrzPkj277f0LwfqCzjl2?usp=sharing 
+## Link to video implementation: https://drive.google.com/drive/folders/1jrZRfDYi_CEDZrzPkj277f0LwfqCzjl2?usp=sharing 
